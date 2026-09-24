@@ -2,7 +2,6 @@
 
 An end-to-end data analysis project on 2,000 retail orders (2024–2025) across 8 cities in eastern India. The same dataset was cleaned and analysed in four tools to answer the same business questions and to confirm the results agree.
 
-> **Note on the data:** This is a synthetic practice dataset created for learning. It is not real company data, so the trends in it (for example, month-to-month ups and downs) are random and should not be read as real business patterns.
 
 ## Business questions
 
